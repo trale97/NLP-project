@@ -1,4 +1,4 @@
-Traineeship 2 - Quantifying the effect of the scientific peer-review process with NLP
+Comparing semantic differences of documents
 
 ## Authors
 - Tra T. Le | Tilburg University
@@ -6,7 +6,5 @@ Traineeship 2 - Quantifying the effect of the scientific peer-review process wit
 - Niels Boonstra | JADS 
 
 ## Description
-These are the codes used for the Traineeship 2 conducted as part of the Research Master in Social and Behavioral Science at Tilburg University under the supervision of Dr. Bennett Kleinberg.
-
-The repository consists of the Bibtex and the Python codes for the **Data collection**, Python and R codes for **permutation test**.
+These are the codes with general instructions for the project. The project is currently under the anonymous period of a double-blind peer review process. The details will be published once the review process is finalized.
 
